@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sadrah</h1> 
 <h3 align="center">A passionate web developer from Syria</h3>
 
-- 🌱 I’m currently learning **React.js , Node.js**
+- 🌱 I have knowledge in **React.js , Node.js**
+- 🌱 I’m currently learning **QA tools "Software testing"**
 
 - 📫 How to reach me **sedrasabbagh@outlook.com**
 
