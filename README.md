@@ -4,7 +4,7 @@
 - 🌱 I have knowledge in **React.js , Node.js**
 - 🌱 I’m currently learning **QA tools "Software testing"**
 
-- 📫 How to reach me **sedrasabbagh@outlook.com**
+- 📫 How to reach me **al.sedra36@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
